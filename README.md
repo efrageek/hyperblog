@@ -8,6 +8,7 @@ I use this repository for learn git/gihub and become a famous coder :D.
 
 Creado con ayuda del increible platzi team.
 Incluye ejemplos en windows, linux y mac
+DIsponible para todas las edades
 
 ¡Adios!
 *cya!*
