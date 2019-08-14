@@ -6,5 +6,7 @@ En este repositorios realicé mis prácticas para aprender git/github y converti
 
 I use this repository for learn git/gihub and become a famous coder :D.
 
+Creado con ayuda del increible platzi team
+
 ¡Adios!
 *cya!*
